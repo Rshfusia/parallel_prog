@@ -5,3 +5,7 @@
 *.obj
 *.pdb
 **/matrix_C.txt
+**/data/C.txt
+/lab3/lab3
+/lab4/matrix_cuda
+/lab5/mandelbrot
